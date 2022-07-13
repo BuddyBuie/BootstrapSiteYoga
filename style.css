@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
+
+
+body {
+  background-color:  #D8D8D8;
+}
+
+.navbar{
+margin-bottom: 0 !important;
+border: 0 !important;
+}
+
+
+
+/* About Us */
+.fa-heart{
+  color: #404040;
+  font-size: 6em;
+   margin: 1rem;
+}
+.fa-utensils{
+  color: #404040;
+  font-size: 6em;
+   margin: 1rem;
+}
+
+.fa-biking{
+  color: #404040;
+  font-size: 6em;
+   margin: 1rem;
+}
+
+/*Contact Us*/
+.social a{
+  font-size: 4.5em;
+  padding: 3.5rem;
+}
+.fa-facebook{
+  color: #3b5998;
+}
+.fa-twitter{
+  color: #00aced; 
+}
+.fa-instagram{
+  color: #833AB4;
+}
+.fa-youtube{
+  color: #bb0000;
+}
+.fa-heart:hover,
+.fa-utensils:hover,
+.fa-biking:hover,
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-youtube:hover{
+  color: #0fc0fc;
+}
